@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 1b3852e6cbc87df4bafa0f6e98ecc128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7089272446931155529
+    second: Letters_wrong_0
+  - first:
+      213: -7496323835664779132
+    second: Letters_wrong_1
+  - first:
+      213: -2898890469644838042
+    second: Letters_wrong_2
+  - first:
+      213: -4709294959584369245
+    second: Letters_wrong_3
+  - first:
+      213: 8469317703096745411
+    second: Letters_wrong_4
+  - first:
+      213: -1080322807949698938
+    second: Letters_wrong_5
+  - first:
+      213: -1108359767455994270
+    second: Letters_wrong_6
+  - first:
+      213: 7396527992294873676
+    second: Letters_wrong_7
+  - first:
+      213: 4164496767868186030
+    second: Letters_wrong_8
+  - first:
+      213: -8385752969402677442
+    second: Letters_wrong_9
+  - first:
+      213: -3561588864725955951
+    second: Letters_wrong_10
+  - first:
+      213: 6004202530289687164
+    second: Letters_wrong_11
+  - first:
+      213: -5745210608526561825
+    second: Letters_wrong_12
+  - first:
+      213: 862808476810191126
+    second: Letters_wrong_13
+  - first:
+      213: -6755164391775853353
+    second: Letters_wrong_14
+  - first:
+      213: -1165230823089193661
+    second: Letters_wrong_15
+  - first:
+      213: 1996417261568729870
+    second: Letters_wrong_16
+  - first:
+      213: -2641240269168909463
+    second: Letters_wrong_17
+  - first:
+      213: -3285213054520095069
+    second: Letters_wrong_18
+  - first:
+      213: -7407851765650188460
+    second: Letters_wrong_19
+  - first:
+      213: -6130002730919072428
+    second: Letters_wrong_20
+  - first:
+      213: 3689715490844169193
+    second: Letters_wrong_21
+  - first:
+      213: -7191616899126140144
+    second: Letters_wrong_22
+  - first:
+      213: 6365202716857693558
+    second: Letters_wrong_23
+  - first:
+      213: -5638381300297269594
+    second: Letters_wrong_24
+  - first:
+      213: -9163373228687084246
+    second: Letters_wrong_25
+  - first:
+      213: 6998956829230331761
+    second: Letters_wrong_26
+  - first:
+      213: -9092698809377482639
+    second: Letters_wrong_27
+  - first:
+      213: 4034619312988084557
+    second: Letters_wrong_28
+  - first:
+      213: 3689027073330377214
+    second: Letters_wrong_29
+  - first:
+      213: -3810144659180116770
+    second: Letters_wrong_30
+  - first:
+      213: 4284007385357274483
+    second: Letters_wrong_31
+  - first:
+      213: 6210778143571133687
+    second: Letters_wrong_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Letters_wrong_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b544b42548dd9d90800000000000000
+      internalID: -7089272446931155529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48838ed4035b7f790800000000000000
+      internalID: -7496323835664779132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bdd021a7215c7d0800000000000000
+      internalID: -2898890469644838042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5af676f2935aeb0800000000000000
+      internalID: -4709294959584369245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd320f149f098570800000000000000
+      internalID: 8469317703096745411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d765412ce101f0800000000000000
+      internalID: -1080322807949698938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 576
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e6371f9a05e90f0800000000000000
+      internalID: -1108359767455994270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a18ff350fb5a660800000000000000
+      internalID: 7396527992294873676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadab05feb34bc930800000000000000
+      internalID: 4164496767868186030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37839c9a12df9b80800000000000000
+      internalID: -8385752969402677442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac5023cc1b29ec0800000000000000
+      internalID: -3561588864725955951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1b61c366335350800000000000000
+      internalID: 6004202530289687164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_12
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde7f61469e440b0800000000000000
+      internalID: -5745210608526561825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 436
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a7710dbf49fb00800000000000000
+      internalID: 862808476810191126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d425dca6c5d042a0800000000000000
+      internalID: -6755164391775853353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dbe647db444dfe0800000000000000
+      internalID: -1165230823089193661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0323430ce2b4bb10800000000000000
+      internalID: 1996417261568729870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963eab518fd685bd0800000000000000
+      internalID: -2641240269168909463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8ad9f1249862d0800000000000000
+      internalID: -3285213054520095069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_19
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579baf4116023990800000000000000
+      internalID: -7407851765650188460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 295
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de46f8efaddeaa0800000000000000
+      internalID: -6130002730919072428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d502a0b0843330800000000000000
+      internalID: 3689715490844169193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013e3e6788e323c90800000000000000
+      internalID: -7191616899126140144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67577ad852eb55850800000000000000
+      internalID: 6365202716857693558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae739fa41270c1b0800000000000000
+      internalID: -5638381300297269594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_25
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2538cf199825d080800000000000000
+      internalID: -9163373228687084246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777194772a412160800000000000000
+      internalID: 6998956829230331761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_27
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781079ab9e30d180800000000000000
+      internalID: -9092698809377482639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d59a83e8ddf730800000000000000
+      internalID: 4034619312988084557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f7a0f39e023330800000000000000
+      internalID: 3689027073330377214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a7b69e95af1bc0800000000000000
+      internalID: -3810144659180116770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dce53f40ad37b30800000000000000
+      internalID: 4284007385357274483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letters_wrong_32
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 13
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44152c0dd113650800000000000000
+      internalID: 6210778143571133687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
